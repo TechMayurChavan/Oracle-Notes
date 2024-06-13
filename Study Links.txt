@@ -1,0 +1,49 @@
+
+https://rpforacle.blogspot.com/2018/07/ar-tables-in-oracle-apps-r12.html     -- AR Tables
+
+https://oraclescmtoday.blogspot.com/2015/05/oracle-apps-receivables-ar-tables.html   - AR tables
+
+https://rpforacle.blogspot.com/2018/07/ap-tables-in-oracle-apps-r12.html   --AP Tables
+
+https://know-oracle.com/oracle-general-ledger-tables/   -- GL Tables
+
+https://oracleapps88.blogspot.com/2011/11/r12-subledger-accounting-tables.html  -- Sub-Ledger tables
+
+https://oracleappstechguide.blogspot.com/2019/09/order-to-cash-o2c-cycle-with-table.html  - O2C Process
+
+https://oracleappstechguide.blogspot.com/2015/07/oracle-apps-procure-to-pay-p2p-cycle.html  - P2P
+
+https://oracleappsonlinetraining.com/forms_triggers.php   -- Oracle Training
+
+https://www.tutorialspoint.com/plsql/plsql_strings.htm  - String Methods
+
+https://oraclescmtoday.blogspot.com/2015/05/oracle-apps-receivables-ar-tables.html   - AR tables
+
+https://www.google.com/search?q=can+we+use+out+parameter+in+function+in+pl+sql+function&sca_esv=97969925faf40410&rlz=1C1UEAD_enIN1025IN1025&sxsrf=ADLYWIKNiI5qC4ag_AUIGsBMFOU3FtuTMw%3A1716524073767&ei=KRRQZqXGLofg1e8Pu_iKyAs&ved=0ahUKEwjl_qi9tqWGAxUHcPUHHTu8ArkQ4dUDCBA&uact=5&oq=can+we+use+out+parameter+in+function+in+pl+sql+function&gs_lp=Egxnd3Mtd2l6LXNlcnAiN2NhbiB3ZSB1c2Ugb3V0IHBhcmFtZXRlciBpbiBmdW5jdGlvbiBpbiBwbCBzcWwgZnVuY3Rpb24yBxAhGKABGAoyBxAhGKABGAoyBRAhGJ8FMgUQIRifBTIFECEYnwVIvitQ_gNY8ShwAXgBkAEAmAHeAaABnQuqAQUwLjguMbgBA8gBAPgBAZgCCqACugvCAgoQABiwAxjWBBhHwgILEAAYgAQYkQIYigXCAgYQABgWGB7CAgsQABiABBiGAxiKBcICCBAAGIAEGKIEwgIFECEYoAGYAwCIBgGQBgiSBwUxLjguMaAHqy8&sclient=gws-wiz-serp#fpstate=ive&vld=cid:506ac761,vid:PyJ5Zwfb7WY,st:0     -- Functions
+
+
+https://www.oracleerpappsguide.com/2013/01/errbuf-and-retcode-in-concurrent-program.html  -- errbuf and retcode
+
+https://oraclescmtoday.blogspot.com/2015/05/errbuff-and-retcode-plsql-mandatory.html  -- errbuf and retcode
+
+https://oracleappspractices.blogspot.com/2015/09/errbuff-retcode.html  - errbuf and retcode
+
+https://erpschools.com/erps/articles/table-suffixes-oracle-apps_all_tl_f_v_vl_s_a   -- Perfix of tables
+
+https://www.oracleappsdna.com/2012/02/oracle-tables-with-suffix-_all-_tl-_b-_f-_v-_vl-_s-_a-_avn-and-_acn/#google_vignette  -- Perfix of tables
+
+https://www.guru99.com/pl-sql-tcl-statements.html  -- PRAGMA autonomous transaction.
+
+https://www.alibabacloud.com/help/en/polardb/polardb-for-oracle/pragma-autonomous-transaction --PRAGMA autonomous transaction.
+
+
+https://www.javainhand.com/2020/04/difference-between-case-and-decode-in-oracle.html  -- decode and case
+
+
+
+
+
+
+
+
+
